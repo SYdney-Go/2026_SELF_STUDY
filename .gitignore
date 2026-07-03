@@ -1,0 +1,9 @@
+# Java 컴파일 결과 (로컬)
+**/bin/
+*.class
+
+# IDE가 자동 생성할 수 있는 설정 (로컬)
+.classpath
+.project
+.settings/
+.vscode/
