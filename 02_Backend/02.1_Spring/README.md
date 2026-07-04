@@ -9,6 +9,9 @@ Do it! 자바 완전 정복 교재를 기반으로 Spring까지 학습합니다.
 | Chapter03 | 연산자 | `sec01_operator_1` EX01~07 | `3장. 연산자.md` |
 | Chapter04 | 제어문과 제어 키워드 | `sec01`~`sec04` EX01~03 | `4장. 제어문과 제어 키워드.md` |
 | Chapter05 | 참조 자료형 | `sec01_array` EX01~10, `sec02_string` EX01~06 | `5장. 참조 자료형.md` |
+| Chapter06 | 클래스와 객체 | `sec01_createobjectandusageofmembers` EX01 | `6장. 클래스와 객체.md` |
+| Chapter07 | 클래스 내부 구성 요소 | `sec01_field` EX01~02, `sec02_method` EX01~07, `sec03_consturctor` EX01~02, `sec04_thiskeyword` EX01~02, `sec05_thismethod` EX01~02 | `7장. 클래스 내부 구성 요소.md` |
+| Chapter08 | 클래스 외부 구성 요소 | `sec01_packageimport` EX01~02 + `common/A`, `sec02_externalclass` EX01, EX02 (`pack1/A`, `pack2/ExternalClass_2`) | `8장. 클래스 외부 구성 요소.md` |
 
 ## 실습 코드 출처
 
