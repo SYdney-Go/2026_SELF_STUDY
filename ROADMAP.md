@@ -8,10 +8,11 @@
 2026_SELF_STUDY/
 ├── 01_Data/                    ← 데이터, SQL, PostgreSQL (예정)
 ├── 02_Backend/
-│   ├── 02.0_Basic/             ← HTTP, REST, Layer, DB, 예외, 인증, 운영
-│   ├── 02.1_Spring/            ← Java Chapter01~19 + Spring
-│   │   ├── Chapter01/          ← md + src/ 실습
+│   ├── 02.0_Basic/             ← Java 기초 + HTTP, REST, Layer, DB, 예외, 인증, 운영
+│   │   ├── 00-java/            ← Chapter01~19 (md + src/ 실습)
+│   │   ├── 01-http-rest.md
 │   │   └── ...
+│   ├── 02.1_Spring/            ← Spring Framework / Boot (예정)
 │   └── 02.2_Flask/             ← Flask (예정)
 ├── 03_Architecture/            ← API 서버가 시스템에서 하는 역할
 ├── 04_AX_DX/                   ← (예정)
@@ -26,7 +27,7 @@
 [개념]  02_Backend/02.0_Basic/01-http-rest.md
         03_Architecture/01-api-server-role.md
               ↓
-[Java]  02_Backend/02.1_Spring/Chapter01~  (교재 예제 실습)
+[Java]  02_Backend/02.0_Basic/00-java/Chapter01~  (교재 예제 실습)
               ↓
 [코드]  05_Projects/event-api-server — 메모리 Event API (5개 CRUD)
         + 02_Backend/02.0_Basic/02-layer-structure.md
@@ -51,7 +52,7 @@
 
 1. `02_Backend/02.0_Basic/01-http-rest.md` — HTTP/REST
 2. `03_Architecture/01-api-server-role.md` — API 서버 역할
-3. `02_Backend/02.1_Spring/Chapter01~` — Java 기초 실습
+3. `02_Backend/02.0_Basic/00-java/Chapter01~` — Java 기초 실습
 4. 체크리스트 풀고 `05_Projects/event-api-server/notes/`에 기록
 
 ## 하지 말 것 (지금)

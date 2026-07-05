@@ -2,7 +2,7 @@
 
 **시스템 설계 관점**에서 API 서버가 어디에 있고, 어떻게 확장되는지 정리합니다.
 
-"코드는 어떻게 짜나"는 [`02_Backend/`](../02_Backend/), Java/Spring은 [`02.1_Spring/`](../02_Backend/02.1_Spring/)을 봅니다.
+"코드는 어떻게 짜나"는 [`02_Backend/`](../02_Backend/), Java 기초는 [`02.0_Basic/00-java/`](../02_Backend/02.0_Basic/00-java/), Spring은 [`02.1_Spring/`](../02_Backend/02.1_Spring/)을 봅니다.
 
 ## 범위 순서
 

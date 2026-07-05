@@ -22,7 +22,7 @@ Spring Boot + PostgreSQL로 만드는 **실습 프로젝트**.
 | --- | --- | --- | --- | --- |
 | 1 | HTTP/REST | `02_Backend/02.0_Basic/01-http-rest.md` | (코드 없음) 요청/응답 이해 | 진행 중 |
 | 2 | API 서버 역할 | `03_Architecture/01-api-server-role.md` | (코드 없음) 시스템 관점 | 진행 중 |
-| 3 | Java 기초 | `02_Backend/02.1_Spring/Chapter01~` | 교재 예제 실습 | 진행 중 |
+| 3 | Java 기초 | `02_Backend/02.0_Basic/00-java/Chapter01~` | 교재 예제 실습 | 진행 중 |
 | 4 | 메모리 API | `02_Backend/02.0_Basic/02-layer-structure.md` | Controller + Service + List | 대기 |
 | 5 | PostgreSQL | `02_Backend/02.0_Basic/03-database-postgresql.md`, `01_Data/` | Entity + Repository + JPA | 대기 |
 | 6 | 예외/응답 | `02_Backend/02.0_Basic/04-exception-response.md` | GlobalExceptionHandler | 대기 |
